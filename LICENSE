@@ -1,0 +1,98 @@
+NTXM Browser mini — Proprietary License
+Copyright (c) 2026 NTXM Team. All rights reserved.
+
+IMPORTANT: This software is proprietary. It is NOT open source.
+No rights are granted except as expressly stated below.
+
+--------------------------------------------------------------------------------
+1. OWNERSHIP
+--------------------------------------------------------------------------------
+
+NTXM Browser mini (the "Software"), including without limitation all binaries,
+documentation, trademarks, product names, icons, and related materials, is owned
+by NTXM Team (the "Owner"). Title and intellectual property rights remain with
+the Owner.
+
+This GitHub repository hosts release binaries, installers, screenshots, and
+documentation only. It does not distribute product source code.
+
+--------------------------------------------------------------------------------
+2. LIMITED PERMISSION TO REDISTRIBUTE THE INSTALLER ONLY
+--------------------------------------------------------------------------------
+
+Subject to this License, you may redistribute ONLY the official, unmodified
+installer binary published by or on behalf of the Owner (for example
+NTXM_Browser_Mini_Setup_*.exe), and only if ALL of the following are true:
+
+  (a) The installer is a complete, unmodified official build (byte-for-byte
+      identical to a build released by the Owner).
+
+  (b) The product is presented under its correct name and branding only:
+      "NTXM Browser mini" / NTXM Team. You must not rename the product, strip
+      copyright notices, or present it as your own product.
+
+  (c) You do not charge a fee for the Software itself that implies ownership
+      or relicensing; optional hosting or bandwidth fees must not misrepresent
+      the Software as yours.
+
+  (d) You include a clear statement that the Software is proprietary to
+      NTXM Team and that this License applies.
+
+No other redistribution is allowed.
+
+--------------------------------------------------------------------------------
+3. PROHIBITED
+--------------------------------------------------------------------------------
+
+Except for Section 2, you must NOT:
+
+  - Copy, publish, upload, mirror, or share source code, build scripts,
+    intermediate artifacts, debug symbols, or non-installer binaries;
+  - Modify, translate, adapt, or create derivative works of the Software
+    for distribution;
+  - Reverse engineer, decompile, or disassemble the Software except to the
+    limited extent that applicable law expressly prohibits this restriction;
+  - Extract, reuse, or redistribute components or assets separately from the
+    official installer;
+  - Remove, obscure, or alter proprietary notices, trademarks, or copyrights;
+  - Sublicense, sell, rent, lease, or otherwise commercialize rights in the
+    Software beyond redistributing the official installer under Section 2;
+  - Use the Owner's names or marks in a way that suggests endorsement beyond
+    truthful identification of the Software.
+
+--------------------------------------------------------------------------------
+4. PERSONAL / INTERNAL USE
+--------------------------------------------------------------------------------
+
+If you obtained an official installer from the Owner or under Section 2, you
+may install and run the Software on machines you control for your own personal
+or internal business use, subject to this License.
+
+--------------------------------------------------------------------------------
+5. NO WARRANTY
+--------------------------------------------------------------------------------
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. THE OWNER IS NOT LIABLE
+FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR THIS
+LICENSE, TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+
+--------------------------------------------------------------------------------
+6. TERMINATION
+--------------------------------------------------------------------------------
+
+Any breach of this License immediately terminates the permissions granted
+herein. Upon termination you must stop redistribution and destroy unauthorized
+copies. Sections 1, 3, 5, and 7 survive termination.
+
+--------------------------------------------------------------------------------
+7. CONTACT
+--------------------------------------------------------------------------------
+
+For rights not expressly granted (OEM licensing, source access, or rebranding),
+contact NTXM Team. No waiver is valid unless in a writing signed by the Owner.
+
+--------------------------------------------------------------------------------
+END OF LICENSE
+--------------------------------------------------------------------------------
