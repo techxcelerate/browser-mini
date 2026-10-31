@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/techxcelerate/browser-mini/releases/latest"><img src="https://img.shields.io/badge/download-v0.1.2-111111?style=for-the-badge" alt="Download v0.1.2" /></a>
+  <a href="https://github.com/techxcelerate/browser-mini/releases/latest"><img src="https://img.shields.io/badge/download-v0.1.4-111111?style=for-the-badge" alt="Download v0.1.4" /></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Windows-x64-0A66C2?style=for-the-badge" alt="Windows" />
   &nbsp;
@@ -86,12 +86,13 @@ Open windows and tabs, navigate, read page HTML, and expose the API remotely wit
 
 ## Download
 
-**Latest release: [v0.1.2](https://github.com/techxcelerate/browser-mini/releases/latest)**
+**Latest release: [v0.1.4](https://github.com/techxcelerate/browser-mini/releases/latest)**
 
 | Platform | Asset | Notes |
 |----------|-------|--------|
-| **Windows** (x64) | `NTXM_Browser_Mini_Setup_0.1.2.exe` | NSIS installer — silent: `/S` |
-| **macOS** (Apple Silicon) | `.app` / zip from Releases | arm64 CEF build |
+| **Windows** (x64) | [`NTXM_Browser_Mini_Setup_0.1.4.exe`](https://github.com/techxcelerate/browser-mini/releases/download/v0.1.4/NTXM_Browser_Mini_Setup_0.1.4.exe) | NSIS installer — silent: `/S` |
+| **macOS** (Apple Silicon) | [`NTXM_Browser_Mini_Setup_0.1.4.dmg`](https://github.com/techxcelerate/browser-mini/releases/download/v0.1.4/NTXM_Browser_Mini_Setup_0.1.4.dmg) | Drag-and-drop disk image |
+| **macOS** (Apple Silicon) | [`NTXM_Browser_Mini_Setup_0.1.4.pkg`](https://github.com/techxcelerate/browser-mini/releases/download/v0.1.4/NTXM_Browser_Mini_Setup_0.1.4.pkg) | Installer package |
 
 Same product and REST API on both platforms — `http://127.0.0.1:9090`.
 
@@ -194,5 +195,5 @@ NTXM Browser mini is **proprietary** software. All rights reserved · NTXM Team.
 ---
 
 <p align="center">
-  <sub>NTXM Browser mini · v0.1.2 · NTXM Team</sub>
+  <sub>NTXM Browser mini · v0.1.4 · NTXM Team</sub>
 </p>
